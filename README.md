@@ -13,4 +13,4 @@ to bring forth sights and actionable plans to improve sales performance across r
 - Percentage of total revenue by region
 
  # Data Sources
- #### The data used for this project was obtained from Dahel consultants and techies for an advanced Excel class project which is from open-source data like Kaggle or Marven analytics
+ #### The data used for this project was obtained from Dahel consultants and techies for an advanced Excel class project which is from open-source data like Kaggle or Marven analytics https://docs.google.com/spreadsheets/d/1TuOcViyLw2YnB5oqZ8KwvZyRC_9cb5ff/edit?gid=1250164222#gid=1250164222
