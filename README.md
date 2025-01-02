@@ -19,6 +19,14 @@
 #### In analyzing this data, Microsoft PowerBI was used for analyzing this sales data set.
 
 # Exploratory data analysis
-#### DAX EXPRESSIONS
+#### POWER BI
 - Total Revenue
-- Average Revenue 
+- Average Revenue
+- Count of region number
+- Count of salespersons
+- Region by region number by total revenue by average revenue
+- Total revenue by region
+- Percentage of total revenue by region
+
+  # Data  Visualization
+
