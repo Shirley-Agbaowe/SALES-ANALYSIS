@@ -16,7 +16,7 @@
 
 
 # Tools Used
-#### In analyzing this data, Microsoft PowerBI was used for analyzing this sales data set.
+#### Microsoft PowerBI was used to analyze this sales data set.
 
 # Exploratory data analysis
 #### POWER BI
@@ -29,5 +29,6 @@
 - Percentage of total revenue by region
 
   # Data  Visualization
+  #### [Download](https://github.com/Shirley-Agbaowe/SALES-ANALYSIS/blob/main/SALES%20DASHBOARD.PNG)
   
 
