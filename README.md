@@ -1,5 +1,5 @@
 # Project Overview
-#### This project is aimed at analyzing the sales data for the sales performance of each product category across the sales region over some time to bring forth sights and actionable plans to improve sales performance across regions. 
+#### This project aims to analyze the sales data for the sales performance of each product category across the sales region over time to bring forth sights and actionable plans to improve sales performance across regions. 
 
 # Objectives
 #### This project aims to analyze the sales data set for the following:
@@ -29,6 +29,6 @@
 - Percentage of total revenue by region
 
   # Data  Visualization
-  #### [Download](https://github.com/Shirley-Agbaowe/SALES-ANALYSIS/blob/main/SALES%20DASHBOARD.PNG)
+  #### [Download](https://drive.google.com/drive/u/0/home)
   
 
